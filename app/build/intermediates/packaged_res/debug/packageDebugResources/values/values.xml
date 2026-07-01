@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#1976D2</color>
+    <color name="colorPrimaryDark">#1565C0</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">CentrosMedicos</string>
+    <string name="firebase_database_url" translatable="false">https://medilima-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">811878327629</string>
+    <string name="google_api_key" translatable="false">AIzaSyCqXbkUsAomMYcorA0KDF3G7I_5vhTnEKk</string>
+    <string name="google_app_id" translatable="false">1:811878327629:android:e244b7011f347015908304</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCqXbkUsAomMYcorA0KDF3G7I_5vhTnEKk</string>
+    <string name="google_maps_key">TU_GOOGLE_MAPS_API_KEY</string>
+    <string name="google_storage_bucket" translatable="false">medilima.firebasestorage.app</string>
+    <string name="project_id" translatable="false">medilima</string>
+    <style name="Base.Theme.MediLima" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="android:popupMenuStyle">@style/Widget.AppCompat.PopupMenu</item>
+        <item name="android:textColorPrimary">@android:color/black</item>
+    </style>
+    <style name="Theme.MediLima" parent="Base.Theme.MediLima"/>
+</resources>

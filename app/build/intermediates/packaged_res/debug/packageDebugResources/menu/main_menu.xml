@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:theme="@style/Widget.AppCompat.PopupMenu">
+
+    <item
+        android:id="@+id/menu_centros"
+        android:title="Centros Medicos"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_especialidades"
+        android:title="Especialidades"
+        app:showAsAction="never" />
+
+</menu>

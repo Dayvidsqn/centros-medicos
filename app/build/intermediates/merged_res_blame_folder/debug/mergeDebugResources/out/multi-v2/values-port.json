@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.centrosmedicos.app-mergeDebugResources-59:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\OS\\.gradle\\caches\\9.0.0\\transforms\\380e7471bb14446d274324093450afce\\transformed\\appcompat-1.7.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

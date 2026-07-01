@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\layout_item_centro_medico.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\layout\\item_centro_medico.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\menu_main_menu.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\layout_item_especialidad.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\layout\\item_especialidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\layout_activity_list_especialidad.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\layout\\activity_list_especialidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\drawable_spinner_background.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\layout_activity_form_especialidad.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\layout\\activity_form_especialidad.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\layout_activity_form_centro_medico.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\layout\\activity_form_centro_medico.xml"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-debug-61:\\layout_activity_list_centro_medico.xml.flat",
+        "source": "C:\\Users\\OS\\.gradle\\daemon\\9.0.0\\com.example.centrosmedicos.app-main-63:\\layout\\activity_list_centro_medico.xml"
+    },
+    {
+        "merged": "com.example.centrosmedicos.app-debug-61:/layout_activity_main.xml.flat",
+        "source": "com.example.centrosmedicos.app-main-63:/layout/activity_main.xml"
+    }
+]
