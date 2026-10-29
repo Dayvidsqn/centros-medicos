@@ -1,4 +1,4 @@
-# MediLima 🏥
+# MediLima
 Aplicación Android en Kotlin para localizar el centro médico más cercano según especialidad.
 Base de datos: **Firebase Realtime Database** (plan Spark — 100% gratuito, sin tarjeta).
 
@@ -12,7 +12,7 @@ MediLima/
 │   ├── java/com/example/medilima/
 │   │   ├── model/
 │   │   │   ├── CentroMedico.kt        ← id, nombre, dirección, coords, imagenBase64, especialidades (Map), horarios
-│   │   │   ├── Especialidad.kt        ← id, nombre, descripcion, icono (emoji)
+│   │   │   ├── Especialidad.kt        ← id, nombre, descripcion, icono
 │   │   │   ├── HorarioAtencion.kt     ← dia, apertura, cierre
 │   │   │   └── RouteResponse.kt       ← Modelo Retrofit (OpenRouteService)
 │   │   ├── repository/
